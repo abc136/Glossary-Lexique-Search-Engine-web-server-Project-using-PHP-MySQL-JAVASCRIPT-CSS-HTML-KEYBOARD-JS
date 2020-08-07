@@ -1,0 +1,50 @@
+#keyboardInputMaster {
+	BORDER-RIGHT: #dddddd 2px groove; BORDER-TOP: #dddddd 2px groove; Z-INDEX: 1000000; BORDER-LEFT: #dddddd 1px groove; WIDTH: auto; COLOR: #000000; BORDER-BOTTOM: #dddddd 1px groove; POSITION: absolute; BACKGROUND-COLOR: #FF6666; TEXT-ALIGN: left
+}
+#keyboardInputMaster THEAD TR TH {
+	BORDER-RIGHT: 4px; PADDING-RIGHT: 5px; BORDER-TOP: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: 4px; PADDING-TOP: 2px; BORDER-BOTTOM: 4px; TEXT-ALIGN: left
+}
+#keyboardInputMaster THEAD TR TH SELECT {
+	FONT: 15px Arial,sans-serif; COLOR: #CC0000}
+#keyboardInputMaster THEAD TR TH LABEL {
+	FONT: 18px Arial,sans-serif; COLOR: #330066}
+#keyboardInputMaster THEAD TR TD {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 4px; BORDER-TOP: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; BORDER-LEFT: 0px; PADDING-TOP: 2px; BORDER-BOTTOM: 0px; TEXT-ALIGN: right
+}
+#keyboardInputMaster THEAD TR TD SPAN {
+	BORDER-RIGHT: #aaaaaa 1px outset; PADDING-RIGHT: 4px; BORDER-TOP: #aaaaaa 1px outset; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; FONT: bold 15px Arial,sans-serif; BORDER-LEFT: #aaaaaa 1px outset; CURSOR: pointer; PADDING-TOP: 2px; BORDER-BOTTOM: #aaaaaa 1px outset; BACKGROUND-COLOR: #FFFF99}
+#keyboardInputMaster THEAD TR TD SPAN.pressed {
+	BORDER-RIGHT: #999999 1px inset; BORDER-TOP: #999999 1px inset; BORDER-LEFT: #999999 1px inset; BORDER-BOTTOM: #999999 1px inset; BACKGROUND-COLOR: #00FF66}
+#keyboardInputMaster TBODY TR TD {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#keyboardInputMaster TBODY TR TD DIV {
+	POSITION: relative; HEIGHT: 5px; TEXT-ALIGN: center
+}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout {
+	HEIGHT: auto
+}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE {
+	WIDTH: 100%; WHITE-SPACE: nowrap; BORDER-COLLAPSE: separate; HEIGHT: 30px}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE.keyboardInputCenter {
+	MARGIN: 0px auto; WIDTH: auto
+}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE TBODY TR TD {
+	BORDER-RIGHT: #5d5d5d 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #e5e5e5 1px solid; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; FONT: 15px 'Lucida Console',monospace; VERTICAL-ALIGN: middle; BORDER-LEFT: #e5e5e5 1px solid; CURSOR: default; PADDING-TOP: 6px; BORDER-BOTTOM: #5d5d5d 1px solid; WHITE-SPACE: pre; BACKGROUND-COLOR: #FF9999}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE TBODY TR TD.last {
+	WIDTH: 200%}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE TBODY TR TD.alive {
+	BACKGROUND-COLOR: #CCCC00}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE TBODY TR TD.target {
+	BACKGROUND-COLOR: #0099FF}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE TBODY TR TD.hover {
+	BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #d5d5d5 1px solid; BORDER-LEFT: #d5d5d5 1px solid; BORDER-BOTTOM: #555555 1px solid; BACKGROUND-COLOR: #00FF00}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE TBODY TR TD.pressed {
+	BORDER-RIGHT: #d5d5d5 1px solid; BORDER-TOP: #555555 1px solid; BORDER-LEFT: #555555 1px solid; BORDER-BOTTOM: #d5d5d5 1px solid; BACKGROUND-COLOR: #FF9999}
+#keyboardInputMaster TBODY TR TD DIV#keyboardInputLayout TABLE TBODY TR TD.dead {
+	BORDER-RIGHT: #d5d5d5 1px solid; BORDER-TOP: #555555 1px solid; BORDER-LEFT: #555555 1px solid; BORDER-BOTTOM: #d5d5d5 1px solid; BACKGROUND-COLOR: #CCCC00}
+#keyboardInputMaster TBODY TR TD DIV VAR {
+	RIGHT: 0px; FONT: bold italic 11px Arial,sans-serif; COLOR: #000000; BOTTOM: 5px; POSITION: absolute
+}
+.keyboardInputInitiator {
+	MARGIN-LEFT: 3px; VERTICAL-ALIGN: middle; CURSOR: pointer}

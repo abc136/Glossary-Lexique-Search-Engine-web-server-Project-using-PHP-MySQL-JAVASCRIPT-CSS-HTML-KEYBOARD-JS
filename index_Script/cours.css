@@ -1,0 +1,21 @@
+.forumP {
+	MARGIN: 0px 0px 30px
+}
+#centre {
+	MARGIN-LEFT: 168px; MARGIN-RIGHT: 162px
+}
+.droite_link {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.droite_link UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.droite_link LI {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; MARGIN-BOTTOM: 4px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; LIST-STYLE-TYPE: none
+}
+P {
+	LINE-HEIGHT: 16px
+}
+H2 {
+	FONT-SIZE: 16px
+}
