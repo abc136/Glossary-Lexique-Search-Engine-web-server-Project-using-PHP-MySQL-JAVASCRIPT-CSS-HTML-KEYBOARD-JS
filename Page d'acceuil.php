@@ -169,8 +169,8 @@ clock();
       </tr>
       <tr>
         <td width="39" height="34" align="left" valign="top" bgcolor="#0099FF"><p>&nbsp;</p></td>
-        <td valign="top" bgcolor="#0099FF"><p class="Style9 Style7 navText"><strong>Fellague Djabir &amp; Derkaoui Ramdhan</strong></p></td>
-        <td valign="top" bgcolor="#0099FF" class="Style14">Mr.Loukam Mourad</td>
+        <td valign="top" bgcolor="#0099FF"><p class="Style9 Style7 navText"><strong></strong></p></td>
+        <td valign="top" bgcolor="#0099FF" class="Style14"></td>
       </tr>
     </table>      </td>
   </tr>
