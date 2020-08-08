@@ -49,8 +49,8 @@ body,td,th {
           <td>&nbsp;</td>
         </tr>
         <tr>
-          <td width="379" height="29" align="left" valign="top"><p><span class="navText"><span class="navText Style7 Style9"><strong>Fellague Djabir &amp; Derkaoui Ramdhan</strong></span></span></p></td>
-          <td width="334" valign="top"><p class="Style14">Mr. Loukam Mourad</p></td>
+          <td width="379" height="29" align="left" valign="top"><p><span class="navText"><span class="navText Style7 Style9"><strong></strong></span></span></p></td>
+          <td width="334" valign="top"><p class="Style14"></p></td>
           <td width="14" class="smallText"><p>&nbsp;</p></td>
           <td width="16">&nbsp;</td>
         </tr>
